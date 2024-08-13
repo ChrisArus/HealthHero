@@ -16,8 +16,9 @@ const Home = () => {
                  <Link to="/">Home</Link>
                </div>
                <div>
-                 <Link to="/login">Ingresar</Link>
+                 <Link to="/login">Login</Link>
                  <Link to="/register">Registrate</Link>
+                 <link to="/aboutus">About Us</link>
                </div>
           </section>
         </div>
