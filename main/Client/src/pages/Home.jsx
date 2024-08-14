@@ -17,7 +17,7 @@ const Home = () => {
                </div>
                <div>
                  <Link to="/login">Login</Link>
-                 <Link to="/register">Registrate</Link>
+                 <Link to="/register">Registration</Link>
                  <link to="/aboutus">About Us</link>
                </div>
           </section>
