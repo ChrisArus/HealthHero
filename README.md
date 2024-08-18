@@ -13,10 +13,10 @@ Helth Hero is a platform where you can check all your activities and add them di
 ## Installation Instructions:
     
  ## User Story
- As a deportist that have to organize every daily activity, I want to start adding my ideas for my trainings on a Calendar , So I can know what I have to do during my week and check what I did on the last week.
+As a deportist that have to organize every daily activity, I want to start adding my ideas for my trainings on a Calendar , So I can know what I have to do during my week and check what I did on the last week.
 
  ## Acceptance Criteria
- Use React for the front end.
+Use React for the front end.
 
 Use GraphQL with a Node.js and Express.js server.
 
@@ -44,6 +44,7 @@ Have a high-quality README (with unique name, description, technologies used, sc
 
 ## Questions:
 You can also find us on Github at :
- [https://github.com/ParthKapadia2207]
+
+[https://github.com/ParthKapadia2207]
 [https://github.com/MathewG2099]
 [https://github.com/ChrisArus] 
