@@ -9,6 +9,8 @@ Helth Hero is a platform where you can check all your activities and add them di
     - [Test Instructions](#Test-Instructions)
     - [License](#License)
     - [Questions](#Questions)
+
+## Installation Instructions:
     
  ## User Story
  As a deportist that have to organize every daily activity, I want to start adding my ideas for my trainings on a Calendar , So I can know what I have to do during my week and check what I did on the last week.
@@ -41,7 +43,7 @@ Have a high-quality README (with unique name, description, technologies used, sc
  ## Test Instructions:
 
 ## Questions:
-  You can also find us on Github at :
+You can also find us on Github at :
  [https://github.com/ParthKapadia2207]
 [https://github.com/MathewG2099]
-https://github.com/ChrisArus 
+[https://github.com/ChrisArus] 
